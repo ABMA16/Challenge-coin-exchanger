@@ -9,8 +9,15 @@ This consist in the creation of a java program able to consume an API from [Exch
 `Functionality 4`: The program would have to be able to handle different types of error and exceptions.
 
 ## :computer: Technologies
-Java
-IntellJ
+Java \
+IntellJ V21 \
+API (Application Programming Interface) \
+Postman API platform
 
+## :bulb: How to use?
+Once the program start execution a brief menu with some of the most popular currencies in latin america will be displayed with its corresponding 3 letter acronym, the program can work with around 170 currencies, but it would display just a few because of space optimization.
+Afterwards, the program will ask for the 3 letter acronym of the currency to convert and subsequently, the 3 letter acronym of the currency to consult. 
+Then, if there are no errors while looking for the currencies, the program would display the exchange rate between both currencies and will ask for the amount to convert.
+Finally, the program will display the currency to convert in its original amount and the new amount converted to the new currency. The program will ask if another conversion would be done, if positive, the program will restart, otherwise, the programm will thank the user and close operation.
 
 
