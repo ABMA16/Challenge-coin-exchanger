@@ -7,6 +7,7 @@ This consist in the creation of a java program able to consume an API from [Exch
 `Functionality 2`: The program should be able to process at least 6 different currencies. \
 `Functionality 3`: The program would be running in a loop which the user could be able to get out to finish the program. \
 `Functionality 4`: The program would have to be able to handle different types of error and exceptions.
+`Functionality 5`: The program will create a logfile after execution with a timestamp history.
 
 ## :computer: Technologies
 Java \
